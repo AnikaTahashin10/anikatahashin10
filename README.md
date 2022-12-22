@@ -1,13 +1,10 @@
-<h1 align="center">Hi there 👋, I'm Anika Tahashin</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikatahashin10&label=Profile%20views&color=0e75b6&style=flat" alt="anikatahashin10" /> </p>
+<h1 align="center">Hi 👋, I'm Anika Tahashin</h1>
+- 🔭 I’m currently a student of **Savonia University of Applied Sciences** an *Information Technology* major specializing in *Internet of Things*
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
-
-- 🔭 I’m currently a student of **Savonia University of Applied Sciences** an *Information Technology* major speacialising in *Internet of Things*
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/anika-tahashin-17750425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anika tahashin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anika-tahashin-17750425b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anika-tahashin-17750425b/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
