@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anika Tahashin</h1>
-- 🔭 I’m currently a student of Savonia University of Applied Sciences an Information Technology major specializing in Internet of Things
+- 🔭 I’m currently a student of Savonia University of Applied Sciences, an Information Technology major specializing in Internet of Things
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 <h3 align="left">Connect with me:</h3>
@@ -14,5 +14,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikatahashin10&show_icons=true&locale=en&layout=compact" alt="anikatahashin10" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anikatahashin10&show_icons=true&locale=en" alt="anikatahashin10" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikatahashin10&" alt="anikatahashin10" /></p>
