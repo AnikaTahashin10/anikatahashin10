@@ -9,8 +9,7 @@ Feel free to browse through my projects and don't hesitate to reach out if you h
 Thank you for stopping by, and I look forward to sharing my journey with you!
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikatahashin10&show_icons=true&locale=en&layout=compact" alt="anikatahashin10" /></p>
 
