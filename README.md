@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anika Tahashin</h1>
 Hello and welcome to my Github profile!
 
-I'm a passionate Information Technology major, who loves to create innovative and impactful projects. I enjoy learning new technologies and collaborating with others to solve complex problems.
+I'm a passionate Full Stack Web Development student, who loves to create innovative and impactful projects. I enjoy learning new technologies and collaborating with others to solve complex problems.
 
-On this page, you'll find a variety of repositories showcasing my skills and projects.
 Feel free to browse through my projects and don't hesitate to reach out if you have any questions or just want to chat. I'm always interested in connecting with like-minded individuals and learning from others in the Github community.
 
 Thank you for stopping by, and I look forward to sharing my journey with you!
