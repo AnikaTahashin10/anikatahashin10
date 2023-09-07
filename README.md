@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Anika Tahashin and Welcome to my Github profile!</h1>
+<h1 align="center">Hi 👋, I'm Anika Tahashin and Welcome to my GitHub profile!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikatahashin10&label=Profile%20views&color=0e75b6&style=flat" alt="anikatahashin10" /> </p>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/anita00001/anita00001/main/life-of-a-programmer.gif">
 
@@ -10,7 +10,7 @@
 
 - 🤝 Hello, I'm a passionate **Full Stack Web Development student**
 
-- 👯 I love to creating innovative and impactful projects and enjoy learning new technologies and collaborating with others to solve complex problems. 🌱
+- 👯 I love creating innovative and impactful projects and enjoy learning new technologies and collaborating with others to solve complex problems. 🌱
 
 - 📫 Reach me at **anikatahashin90@gmail.com**
 
