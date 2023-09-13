@@ -12,14 +12,11 @@
 
 - 👯 I love creating innovative and impactful projects and enjoy learning new technologies and collaborating with others to solve complex problems. 🌱
 
-- 📫 Reach me at **anikatahashin90@gmail.com**
-
 - Thank you for stopping by, and I look forward to sharing my journey with you!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anikatahashin90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anikatahashin90" height="30" width="40" /></a>
-<a href="https://instagram.com/tahaashii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tahaashii" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
