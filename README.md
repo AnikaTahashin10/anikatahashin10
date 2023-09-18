@@ -8,7 +8,7 @@
 
 
 
-- 🤝 Hello, I'm passionate about **Full Stack Web Development **
+- 🤝 Hello, I'm passionate about **Full Stack Web Development**
 
 - 👯 I love creating innovative and impactful projects and enjoy learning new technologies and collaborating with others to solve complex problems. 🌱
 
