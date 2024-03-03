@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi 👋, Welcome to my GitHub Profile!!</h1>
+<h1 align="center">Hi 👋, Welcome to my GitHub k!!</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anikatahashin10&label=Profile%20views&color=0e75b6&style=flat" alt="anikatahashin10" /> </p>
 
 
